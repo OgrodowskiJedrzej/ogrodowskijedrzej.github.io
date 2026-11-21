@@ -44,7 +44,7 @@ p { margin: 0 0 20px; }
 .item-number { padding-top: 4px; color: var(--muted); font-size: 13px; }
 .project-row .small-label { margin-bottom: 8px; }
 .project-row h3 { font-size: 25px; }
-.project-row p { font-size: 16px; max-width: 490px; margin-bottom: 15px; }
+.project-row p { font-size: 16px; margin-bottom: 15px; }
 .status { display: inline-block; font-size: 13px; color: #526249; background: #e9ede4; padding: 3px 10px; border-radius: 3px; }
 .project-row + .text-link { margin-top: 32px; }
 .writing-row { display: flex; justify-content: space-between; gap: 24px; text-decoration: none; }
